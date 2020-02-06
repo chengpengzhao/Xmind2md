@@ -29,8 +29,8 @@ def Print2MDList(dictOri: typing.Dict) -> typing.AnyStr:
             return
         level = level + 1
         for topic, topicDict in dictContent.items():
-            listStr.append('  ' * (level - 1))
-            listStr.append('- ')
+            listStr.append('#' * (level))
+            listStr.append('  ')
             listStr.append(topic)
             listStr.append('\n')
             Print2MDListInternal(topicDict, level)
