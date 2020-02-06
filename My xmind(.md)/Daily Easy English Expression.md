@@ -1,0 +1,21 @@
+- Daily Easy English Expression
+  - how are you doing?
+    - how→ha'
+    - you→ yoo yah    yuh（常用）
+    - ing→ing   ən(常用)  in
+  - What do you do for a living？（问job）
+    - do→  də
+    - what的t发音省略
+    - for→  fer
+  - I‘m into ......(热衷于)
+  - My knee went out
+    - 三个强音：s  n   l     三个弱音： d  t  th   
+    - 省略went的t发音
+  - What's up this weekend
+    - s把t的发音挤掉了    wass up
+  - 分支主题 9
+  - 分支主题 4
+  - 分支主题 5
+  - 分支主题 6
+  - 分支主题 7
+  - 分支主题 8

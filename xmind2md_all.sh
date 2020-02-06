@@ -1,8 +1,9 @@
 #!/bin/bash
 
-for i in $(echo *.xmind)
+find . -regex ".*+.xmind" -print|while read i
 do
-   python3 xmind2md.py -source $i
+    echo $i
+    python3 xmind2md.py -source "$i"
 done
 
 
